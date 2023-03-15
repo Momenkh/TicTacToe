@@ -1,0 +1,11 @@
+D:\Momen\ITI\Programming Data\Labs\Ttt\Ttt\bin\Debug\Ttt.exe.config
+D:\Momen\ITI\Programming Data\Labs\Ttt\Ttt\bin\Debug\Ttt.exe
+D:\Momen\ITI\Programming Data\Labs\Ttt\Ttt\bin\Debug\Ttt.pdb
+D:\Momen\ITI\Programming Data\Labs\Ttt\Ttt\obj\Debug\Ttt.csproj.AssemblyReference.cache
+D:\Momen\ITI\Programming Data\Labs\Ttt\Ttt\obj\Debug\Ttt.csproj.SuggestedBindingRedirects.cache
+D:\Momen\ITI\Programming Data\Labs\Ttt\Ttt\obj\Debug\Ttt.Properties.Resources.resources
+D:\Momen\ITI\Programming Data\Labs\Ttt\Ttt\obj\Debug\Ttt.csproj.GenerateResource.cache
+D:\Momen\ITI\Programming Data\Labs\Ttt\Ttt\obj\Debug\Ttt.csproj.CoreCompileInputs.cache
+D:\Momen\ITI\Programming Data\Labs\Ttt\Ttt\obj\Debug\Ttt.exe
+D:\Momen\ITI\Programming Data\Labs\Ttt\Ttt\obj\Debug\Ttt.pdb
+D:\Momen\ITI\Programming Data\Labs\Ttt\Ttt\obj\Debug\Ttt.Form1.resources
